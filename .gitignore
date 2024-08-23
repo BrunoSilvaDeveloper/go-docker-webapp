@@ -1,0 +1,14 @@
+# Arquivos binários
+main
+
+# Diretório de dependências do Go
+vendor/
+
+# Diretórios de build
+bin/
+build/
+
+# Arquivos do sistema operacional
+*.log
+*.swp
+*.DS_Store
